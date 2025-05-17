@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://github.com/your-banner.png" width="800px">
+  <h1>سلام! من علی هستم 👋</h1>
+  
+  ![آمار گیتهاب](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark)
+  ![زبانهای پرکاربرد](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact)
 
-<!--
-**Tec-Media/Tec-Media** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ### مهارتها  
+  ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
-Here are some ideas to get you started:
+  ### پروژهها  
+  - [پروژه فوقالعاده](https://github.com/your-project)  
+  - [آزمایشگاه کد](https://github.com/another-project)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![Snake animation](https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake.svg)
+</div>
